@@ -279,7 +279,10 @@
             <ul>
                 <li>
                     <div class="skill_name">
-                        HTML
+                        <?php
+                        $skill1 = "HTML";
+                        echo $skill1;
+                        ?>
                     </div>
                     <div class="skill_progress">
                         <span style="width: 80%;"></span>
@@ -288,7 +291,10 @@
                 </li>
                 <li>
                     <div class="skill_name">
-                        CSS
+                        <?php
+                        $skill2 = "CSS";
+                        echo $skill2;
+                        ?>
                     </div>
                     <div class="skill_progress">
                         <span style="width: 70%;"></span>
@@ -297,7 +303,10 @@
                 </li>
                 <li>
                     <div class="skill_name">
-                        PHP
+                        <?php
+                        $skill3 = "PHP";
+                        echo $skill3;
+                        ?>
                     </div>
                     <div class="skill_progress">
                         <span style="width: 50%;"></span>
@@ -306,7 +315,10 @@
                 </li>
                 <li>
                     <div class="skill_name">
-                        Python
+                        <?php
+                        $skill4 = "Python";
+                        echo $skill4;
+                        ?>
                     </div>
                     <div class="skill_progress">
                         <span style="width: 60%;"></span>
@@ -315,7 +327,10 @@
                 </li>
                 <li>
                     <div class="skill_name">
-                        JAVA
+                        <?php
+                        $skill5 = "JAVA";
+                        echo $skill5;
+                        ?>
                     </div>
                     <div class="skill_progress">
                         <span style="width: 88%;"></span>
@@ -325,6 +340,90 @@
             </ul>
         </div>
 
+        <div class="resume_item resume_social">
+            <div class="title">
+                <p class="bold">
+                    <?php
+                    $card0 = "Projects";
+                    echo $card0;
+                    ?>
+                </p>
+            </div>
+            <ul>
+                <li>
+                        <div class="data">
+                            <p><b>
+                                <?php
+                                $r1 = "1) GoAbrigo Website";
+                                echo $r1;
+                                ?>
+                                </b></p>
+                        </div><br>
+                        <div class="data">
+                            <p><b>
+                                <?php
+                                $r2 = "2) Cloud Computing Project: Secure File Storage On Cloud Using Hybrid Cryptography";
+                                echo $r2;
+                                ?>
+                                </b></p>
+                        </div><br>
+                    <div class="data">
+                        <p><b>
+                            <?php
+                            $r3 = "3) E-Commerce Website";
+                            echo $r3;
+                            ?>
+                            </b></p>
+                    </div><br>
+                    <div class="data">
+                        <p><b>
+                                <?php
+                                $r4 = "4) Full Stack";
+                                echo $r4;
+                                ?>
+                            </b></p>
+                    </div><br>
+                </li>
+            </ul>
+        </div>
+        <div class="resume_item resume_social">
+            <div class="title">
+                <p class="bold">
+                    <?php
+                    $card7 = "Certifications";
+                    echo $card7;
+                    ?>
+                </p>
+            </div>
+            <ul>
+                <li>
+                    <div class="data">
+                        <p><b>
+                                <?php
+                                $c1 = "1) Web Development";
+                                echo $c1;
+                                ?>
+                            </b></p>
+                    </div><br>
+                    <div class="data">
+                        <p><b>
+                                <?php
+                                $c2 = "2) MySQL";
+                                echo $c2;
+                                ?>
+                            </b></p>
+                    </div><br>
+                    <div class="data">
+                        <p><b>
+                                <?php
+                                $c3 = "3) Java";
+                                echo $c3;
+                                ?>
+                            </b></p>
+                    </div><br>
+                </li>
+            </ul>
+        </div>
         <div class="resume_item resume_hobby">
             <div class="title">
                 <p class="bold">Hobby</p>

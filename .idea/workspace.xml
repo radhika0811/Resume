@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3462da7d-344c-44dc-8d99-9e666fa2ddd1" name="Default Changelist" comment="">
+    <list default="true" id="3462da7d-344c-44dc-8d99-9e666fa2ddd1" name="Default Changelist" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indec.php" beforeDir="false" afterPath="$PROJECT_DIR$/indec.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylee.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylee.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,11 +76,35 @@
       <option name="presentableId" value="Default" />
       <updated>1597395490919</updated>
       <workItem from="1597395492152" duration="14616000" />
+      <workItem from="1597413159285" duration="2574000" />
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1597413443266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597413443266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="390" y="26" key="#PHP" timestamp="1597395589777">
@@ -75,10 +119,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="542" y="88" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1597413005419" />
-    <state x="518" y="307" key="NewPhpFileDialog" timestamp="1597395500338">
+    <state x="518" y="307" key="NewPhpFileDialog" timestamp="1597414920442">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="518" y="307" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1597395500338" />
+    <state x="518" y="307" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1597414920442" />
     <state x="110" y="120" width="1146" height="528" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597408303473">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
