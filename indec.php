@@ -52,6 +52,19 @@
                             ?>
                         </div>
                     </li>
+                    <li>
+                        <div class="icon">
+                            <i class="fab fa-linkedin"></i>
+                        </div>
+                        <div class="data">
+                            <p>
+                                <?php
+                                $linkedIn = "";
+                                echo $linkedIn;
+                                ?>
+                            </p>
+                        </div>
+                    </li>
                 </ul>
             </div>
             <div class="resume_item resume_social">
@@ -164,46 +177,6 @@
            ?>
             </p>
         </div>
-<!--        <div class="resume_item resume_work">-->
-<!--            <div class="title">-->
-<!--                <p class="bold">-->
-<!--                    --><?php
-//                    $details = "Personal Details";
-//                    echo $details;
-//                    ?>
-<!--                </p>-->
-<!--            </div>-->
-<!--            <ul>-->
-<!--                <li>-->
-<!--                    <div>-->
-<!--                        <p class="semi-bold">-->
-<!--                            --><?php
-//                            $fname = "Father's Name - Mr. Deepak Agrawal";
-//                            echo $fname;
-//                            ?>
-<!--                        </p>-->
-<!--                    </div>-->
-<!--                </li>-->
-<!--                <li>-->
-<!--                    <div >-->
-<!--                        <p class="semi-bold">-->
-<!--                            --><?php
-//                            $dob = "Date Of Birth - 2 April 2000";
-//                            echo $dob;
-//                            ?>
-<!--                        </p>-->
-<!--                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>-->
-<!--                    </div>-->
-<!--                </li>-->
-<!--                <li>-->
-<!--                    <div class="date">2017 - Present</div>-->
-<!--                    <div class="info">-->
-<!--                        <p class="semi-bold">Lorem ipsum dolor sit amet.</p>-->
-<!--                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, voluptatibus!</p>-->
-<!--                    </div>-->
-<!--                </li>-->
-<!--            </ul>-->
-<!--        </div>-->
         <div class="resume_item resume_education">
             <div class="title">
                 <p class="bold">
